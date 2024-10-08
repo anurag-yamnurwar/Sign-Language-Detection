@@ -71,11 +71,11 @@ Hand sign recognition and finger gesture recognition can add and change training
 # Reference
 * [MediaPipe](https://mediapipe.dev/)
 
-# Author
+<!--# Author
 Kazuhito Takahashi(https://twitter.com/KzhtTkhs)
 
 # Translation and other improvements
-Nikita Kiselov(https://github.com/kinivi)
+Nikita Kiselov(https://github.com/kinivi)-->
  
 # License 
 hand-gesture-recognition-using-mediapipe is under [Apache v2 license](LICENSE).
